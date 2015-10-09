@@ -1,5 +1,5 @@
 // package metadata file for Meteor.js
-var packageName = 'kensho:ng-alertify';
+var packageName = 'gcat:ng-alertify';
 var where = 'client'; // where to install: 'client' or 'server'. For both, pass nothing.
 var version = '0.9.0';
 var summary = 'AngularJS wrapper around alertify.js';
